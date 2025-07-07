@@ -65,7 +65,7 @@ psql -d school_mgmt -f seed_db/seed-db.sql
 **Complete CRUD Operations in Student Management**
 - **Location**: `/src/modules/students/students-controller.js`
 - **Issue**: Implement missing CRUD operations for student management
-- **Skills Tested**: Node.js, Express, PostgreSQL, API design, Error handling
+- **Skills Tested**: Node.js, Express, PostgreSQL, API design, Error hand`ling
 - **Expected Implementation**: Full Create, Read, Update, Delete operations
 
 ### **Problem 3: Blockchain Developer Challenge**
